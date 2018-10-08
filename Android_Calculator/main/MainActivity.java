@@ -288,7 +288,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 vibe.vibrate(vibeTime);
                 break;
             case R.id.draw:
-                //startActivity(new Intent(getApplicationContext(), Main2Activity.class));
                 if(!isDrawing) { // go to drawing mode
                     drawView.setVisibility(View.VISIBLE);
                     b0.setVisibility(View.INVISIBLE);

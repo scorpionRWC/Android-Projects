@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MySimpleCalculator</string>
+    <string name="margVert">1dp</string>
+    <string name="margHoriz">1dp</string>
+    <string name="Error">Out Of Bounds</string>
+    <string name="back_space"><![CDATA[<]]></string>
+    <string name="clearScreen">C</string>
+    <string name="decimalPoint">.</string>
+    <string name="division">/</string>
+    <string name="multiplication">X</string>
+    <string name="freeDraw">D</string>
+    <string name="backToKeypad">#</string>
+</resources>

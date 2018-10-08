@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#333000</color>
+    <color name="colorAccent">#333000</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorBackgroundAnswer">#FFFFFF</color>
+    <color name="colorBackgroundNumber">#777777</color>
+    <color name="colorBackgroundOperation">#0000F0</color>
+    <color name="colorTextAnswer">#000000</color>
+    <color name="colorTextNumber">#000000</color>
+    <color name="colorTextOperation">#FFFFFF</color>
+    <color name="colorTextHistory">#00F000</color>
+    <color name="colorPressed">#0F90C0</color>
+</resources>

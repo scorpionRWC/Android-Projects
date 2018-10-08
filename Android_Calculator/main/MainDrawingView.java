@@ -171,9 +171,6 @@ public class MainDrawingView extends View {
 
 
         strIndex = 0;
-        //if(motions[0].equals("Down") && motions[1].equals("") && motions[2].equals("") && motions[3].equals("") && motions[4].equals("") && motions[5].equals("") && motions[6].equals("") && motions[7].equals("")){
-          //  numberDrawn = "1";
-        //}
         for(; strIndex < 8; strIndex++){
             if(motions[strIndex].equals("Right")){
                 for(; strIndex < 8; strIndex++){
